@@ -44,7 +44,6 @@ phone = {'user-agent':'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) Ap
 pc = {'user-agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'}
 
 AuthInfo = auth_read('Auth.txt')
-print(AuthInfo)
 username = AuthInfo[0]
 password = AuthInfo[1]
 logindomainid = int(AuthInfo[2])
