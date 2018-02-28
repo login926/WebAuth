@@ -1,0 +1,7 @@
+41621P29
+lalalalalala
+1
+第一行：登陆名，
+第二行：Base64加密后的密码
+第三行：1 代表 studentphone ，2 代表 student
+请勿使用Windows记事本编辑本文件
